@@ -1,3 +1,3 @@
 "# Portfolio-01" 
 
-run with command --> "mpm run dev"
+run with command --> "npm run dev"
